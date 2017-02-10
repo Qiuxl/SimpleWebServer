@@ -5,9 +5,9 @@
 * MyWebServer文件夹，该文件夹下放着我实验所用的html文件，txt文件和img文件等
 * imageResource，包含此markdown文件需要显示的图片文件，所以最好不要删掉啦，不然这个文件没法显示相关图片了
 * *.pdf是我的实验报告
-###如何在你的电脑上运行此服务器
+###如何在你的电脑上运行此服务器 
 ####1.部署文件  
-1.将MyWebServer文件夹随便放在某个目录下
+1.将MyWebServer文件夹随便放在某个目录 
 ####2.运行服务器，设置服务器参数
 1.服务器的主界面如下  
 ![服务器界面]( "./imageResource/WebMain.jpg" "这是主界面")  
@@ -15,8 +15,7 @@
 3.将步骤1中MyWebServer复制放到工作目录参数栏中  
 如下图，MyWebServer文件夹在e:/Document/下，此时只需要将"e:/Document/MywebServer"填入工作目录参数栏即可
 
-![工作目录]( "./imageResource/WorkDirectory.jpg" "这是工作目录") 
-
+![工作目录]( "./imageResource/WorkDirectory.jpg" "这是工作目录")  
 ####3.运行服务器，
 * 这是eclipse工程，如果你想重新build一次或者自己修改代码跑一次，务必记得将QzhWebServer/lib文件夹下的TableLayout.jar添加到build path中，具体怎么添加的话，只要eclipse工程打开，右键点击TableLayout.jar->add to build path即可，实在不行自行google
 * 如果想直接运行我的服务器，那么在安装有java 的jre运行环境下双击QzhWebServer/可执行jar包文件夹下的.jar文件即可。  
