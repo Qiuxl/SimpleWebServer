@@ -16,7 +16,7 @@
 如下图，MyWebServer文件夹在e:/Document/下，此时只需要将"e:/Document/MywebServer"填入工作目录参数栏即可
 
 ![工作目录]( "./imageResource/WorkDirectory.jpg" "这是工作目录")  
-####3.运行服务器，
+####3.运行服务器
 * 这是eclipse工程，如果你想重新build一次或者自己修改代码跑一次，务必记得将QzhWebServer/lib文件夹下的TableLayout.jar添加到build path中，具体怎么添加的话，只要eclipse工程打开，右键点击TableLayout.jar->add to build path即可，实在不行自行google
 * 如果想直接运行我的服务器，那么在安装有java 的jre运行环境下双击QzhWebServer/可执行jar包文件夹下的.jar文件即可。  
 
