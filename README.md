@@ -4,7 +4,7 @@
 * QzhWebServer文件夹，存放着我的eclipse工程，包括源代码和可执行jar包
 * MyWebServer文件夹，该文件夹下放着我实验所用的html文件，txt文件和img文件等
 * imageResource，包含此markdown文件需要显示的图片文件，所以最好不要删掉啦，不然这个文件没法显示相关图片了
-* *.pdf是我的实验报告
+* *.pdf是我的实验报告 
 ###如何在你的电脑上运行此服务器 
 ####1.部署文件  
 1.将MyWebServer文件夹随便放在某个目录 
